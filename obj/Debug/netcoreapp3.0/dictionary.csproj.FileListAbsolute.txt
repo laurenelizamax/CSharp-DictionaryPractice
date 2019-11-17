@@ -1,0 +1,11 @@
+/Users/laurenmaxwell/workspace/CSharp/exercises/dictionary/obj/Debug/netcoreapp3.0/dictionary.csprojAssemblyReference.cache
+/Users/laurenmaxwell/workspace/CSharp/exercises/dictionary/obj/Debug/netcoreapp3.0/dictionary.AssemblyInfoInputs.cache
+/Users/laurenmaxwell/workspace/CSharp/exercises/dictionary/obj/Debug/netcoreapp3.0/dictionary.AssemblyInfo.cs
+/Users/laurenmaxwell/workspace/CSharp/exercises/dictionary/bin/Debug/netcoreapp3.0/dictionary
+/Users/laurenmaxwell/workspace/CSharp/exercises/dictionary/bin/Debug/netcoreapp3.0/dictionary.deps.json
+/Users/laurenmaxwell/workspace/CSharp/exercises/dictionary/bin/Debug/netcoreapp3.0/dictionary.runtimeconfig.json
+/Users/laurenmaxwell/workspace/CSharp/exercises/dictionary/bin/Debug/netcoreapp3.0/dictionary.runtimeconfig.dev.json
+/Users/laurenmaxwell/workspace/CSharp/exercises/dictionary/bin/Debug/netcoreapp3.0/dictionary.dll
+/Users/laurenmaxwell/workspace/CSharp/exercises/dictionary/bin/Debug/netcoreapp3.0/dictionary.pdb
+/Users/laurenmaxwell/workspace/CSharp/exercises/dictionary/obj/Debug/netcoreapp3.0/dictionary.dll
+/Users/laurenmaxwell/workspace/CSharp/exercises/dictionary/obj/Debug/netcoreapp3.0/dictionary.pdb
